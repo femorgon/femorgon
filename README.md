@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @femorgon
 - 👀 I’m interested in data, analytics and IA in general.
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m a Python developer and can do some tricks using R.
 - 💞️ I’m looking to collaborate on Open Source projects.
-- 📫 Reach me here at GitHub!
+- 📫 Reach me here at GitHub or at LinkedIn.
 
 <!---
 femorgon/femorgon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
